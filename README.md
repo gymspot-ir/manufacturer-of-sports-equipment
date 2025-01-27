@@ -1,2 +1,21 @@
-# manufacturer-of-sports-equipment
-تولیدکنندگان تجهیزات ورزشی ثبت شده در سایت جیم اسپات
+# تولیدکنندگان تجهیزات ورزشی ثبت شده در سایت جیم اسپات
+
+## [تولیدکنندگان تجهیزات ورزشی](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/)
+-    [شرکت ترو](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/true/)
+-    [شرکت تاف استاف آمریکا](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/tuff-Stuff-Fitness/)
+-    [شرکت ناتیلوس](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/nautilus/)
+-    [شرکت تکنو جیم](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/technogym/)
+-    [شرکت ایمپالس](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/impulse/)
+-    [شرکت دی کی ان](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/dkn/)
+-    [شرکت بیلیح](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/bailih/)
+-    [شرکت ایکس فورس](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/x-force/)
+-    [شرکت استیکس](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/stex/)
+-    [شرکت هلث وان](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/health-one/)
+-    [شرکت انی فیت](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/any-fit/)
+-    [شرکت Pluex](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/pluex/)
+-    [شرکت سیبیکس](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/cybex/)
+-    [شرکت جیم ماست ](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/gymost/)
+-    [شرکت او ام آ](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/oma/)
+-    [شرکت هرمز](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/hormoz/)
+-    [شرکت بادی استرانگ](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/body-strong/)
+-    [شرکت آلتر جی](https://gymspot.ir/sports-equipment/manufacturer-of-sports-equipment/alterg/)
